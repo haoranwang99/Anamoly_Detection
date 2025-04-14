@@ -30,10 +30,6 @@ The paper also includes formal theoretical analysis and mathematical formulation
 
 The paper cites 30+ academic papers and resources ranging from classical models to cutting-edge deep learning anomaly detectors.
 
-## 📜 License
-
-Feel free to reuse the contents of this repository for academic or non-commercial use. (Optional: Add a [LICENSE](https://choosealicense.com/) file for more clarity.)
-
 ---
 
 > *This project was submitted as part of COMP 562 (Machine Learning) at McGill University.*
